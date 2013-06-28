@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+# Lo! a YAML comment!
+one:
+  title: completed_test_task
+  details: 
+  priority: low
+  completed: 1
+
+two:
+  title: incomplete_test_task
+  details: no details ehre
+  priority: vital
+  completed: 0
